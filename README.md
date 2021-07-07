@@ -1,5 +1,4 @@
-# TEPC
-Sistema de Avaliação de Disciplinas - SAD
+# Sistema de Avaliação de Disciplinas - SAD
 
 O Sistema de Avaliação de Disciplina (SAD) será um sistema web desenvolvido por alunos do curso de Ciência da Computação com o objetivo de permitir que os alunos avaliem disciplinas cursadas ao longo do curso, além de contar com dashboards informativos disponíveis para o corpo docente, permitindo uma análise do desempenho de cada professor.
 
